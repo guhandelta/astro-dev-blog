@@ -1,9 +1,9 @@
 ---
 title: "HTMX: The Rising Star in UI Development"
-date: "2023-12-10"
+date: 2023-12-10
 author: "Guhaprasaanth"
-image: "htmx.png"
-tags: ["tech"]
+image: "htmx.jpeg"
+tags: ["javascript", "framework"]
 slug: htmx
 ---
 # HTMX: Revolutionizing UI Development

@@ -1,9 +1,9 @@
 ---
 title: "QUIC and 0-RTT: Revolutionizing Web Performance"
-date: "2023-12-18"
+date: 2023-12-18
 author: "Guhaprasaanth"
 image: "quic vs 0rtt.png"
-tags: ["tech"]
+tags: ["web"]
 slug: quic-vs-0rtt
 ---
 

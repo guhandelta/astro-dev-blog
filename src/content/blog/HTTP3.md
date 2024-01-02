@@ -1,9 +1,9 @@
 ---
 title: "HTTP/3: The Game-Changer in Web Performance"
-date: "2023-12-16"
+date: 2023-12-16
 author: "Guhaprasaanth"
 image: "http3.png"
-tags: ["tech"]
+tags: ["web"]
 slug: http3
 ---
 

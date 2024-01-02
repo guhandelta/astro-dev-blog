@@ -1,9 +1,9 @@
 ---
 title: "Static Site Generation: Gaining Momentum in Modern Web Developmen"
-date: "2023-12-14"
+date: 2023-12-14
 author: "Guhaprasaanth"
 image: "ssg.png"
-tags: ["tech"]
+tags: ["ui", "architecture", "framework"]
 slug: static-site-generation
 ---
 # Static Site Generation: Gaining Momentum in Modern Web Developmen

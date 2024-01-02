@@ -1,9 +1,9 @@
 ---
 title: "Hyperscript: A New Wave in UI Development"
-date: "2023-12-12"
+date: 2023-12-12
 author: "Guhaprasaanth"
 image: "hyperscript.png"
-tags: ["tech"]
+tags: ["ui"]
 slug: hyperscript
 ---
 # Hyperscript: A New Wave in UI Development
