@@ -7,7 +7,6 @@ tags: ["ui", "architecture", "wasm"]
 slug: web-assembly
 ---
 
-# Embracing the Future: The Shift from asm.js to WebAssembly
 In the continuously advancing world of web development, performance and efficiency are paramount. The transition from asm.js to WebAssembly (Wasm) marks a significant leap in this journey, offering unparalleled speed and optimization for web applications. Let's explore this evolution and how WebAssembly is reshaping the web.
 
 ## The Era of asm.js

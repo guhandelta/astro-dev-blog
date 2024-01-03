@@ -7,7 +7,6 @@ tags: ["web"]
 slug: http3
 ---
 
-# HTTP/3: The Game-Changer in Web Performance
 In the ever-evolving landscape of web technology, a new version of the Hypertext Transfer Protocol, known as HTTP/3, is making significant waves. As the latest iteration in the HTTP series, HTTP/3 is set to revolutionize how data is transferred over the internet, thereby profoundly impacting website performance. Let's delve into what HTTP/3 is and how it's reshaping website efficiency and user experience.
 
 ## What is HTTP/3?

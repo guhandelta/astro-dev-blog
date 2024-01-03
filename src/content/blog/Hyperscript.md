@@ -6,7 +6,6 @@ image: "hyperscript.png"
 tags: ["ui"]
 slug: hyperscript
 ---
-# Hyperscript: A New Wave in UI Development
 
 ## Embracing Hyperscript in Modern UI Development
 In the ever-evolving landscape of UI development, there's always something new on the horizon that promises to enhance the way we build and interact with web interfaces. One such emerging technology that's been drawing attention is Hyperscript. Let's dive into what Hyperscript is and why it's becoming an important technology in UI development.

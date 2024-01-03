@@ -1,12 +1,12 @@
 ---
-title: "Static Site Generation: Gaining Momentum in Modern Web Developmen"
+title: "Static Site Generation: Gaining Momentum in Modern Web Development"
 date: 2023-12-14
 author: "Guhaprasaanth"
 image: "ssg.png"
 tags: ["ui", "architecture", "framework"]
 slug: static-site-generation
 ---
-# Static Site Generation: Gaining Momentum in Modern Web Developmen
+
 The Resurgence of Static Site Generation in the Web Development Arena
 In recent times, the concept of static site generation (SSG) has been gaining a lot of attention and traction among web developers and businesses alike. Once seen as a rudimentary approach suitable only for simple websites, SSG is now at the forefront of building fast, secure, and scalable web applications. Let's explore this renewed interest in static site generation and the tools making it happen.
 

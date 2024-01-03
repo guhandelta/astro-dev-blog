@@ -6,7 +6,7 @@ image: "htmx.jpeg"
 tags: ["javascript", "framework"]
 slug: htmx
 ---
-# HTMX: Revolutionizing UI Development
+
 As we delve deeper into the modern era of web development, a new player is making waves in the UI development space: HTMX. This relatively new technology is gradually becoming a key player, offering a fresh perspective on building dynamic and interactive user interfaces. Let's explore why HTMX is turning heads and why it might be the next big thing in UI development.
 
 ## What is HTMX?

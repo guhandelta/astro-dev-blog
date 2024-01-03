@@ -2,12 +2,11 @@
 title: "QUIC and 0-RTT: Revolutionizing Web Performance"
 date: 2023-12-18
 author: "Guhaprasaanth"
-image: "quic vs 0rtt.png"
+image: "quic_vs_0rtt.png"
 tags: ["web"]
 slug: quic-vs-0rtt
 ---
 
-# QUIC and 0-RTT: Revolutionizing Web Performance
 In the quest for lightning-fast web experiences, two protocols have risen to prominence: QUIC and 0-RTT. These technologies are redefining the landscape of web performance, offering unprecedented speed improvements in page rendering and overall website responsiveness. Let's dive into what these protocols are and how they are reshaping the web.
 
 ## Understanding QUIC
