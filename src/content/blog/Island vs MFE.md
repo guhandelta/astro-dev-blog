@@ -2,9 +2,9 @@
 title: "Island Architecture and Micro Frontends on how they are Shaping the Future of Web Development"
 date: 2023-12-16
 author: "Guhaprasaanth"
-image: "island_vs_mfe.jpeg"
+image: "islandmfe.jpeg"
 tags: ["ui", "architecture"]
-slug: is;and-architecture-vs-microfrontends
+slug: island-architecture-vs-microfrontends
 ---
 
 # Island Architecture and Micro Frontends: Pioneering Web Development Paradigms
