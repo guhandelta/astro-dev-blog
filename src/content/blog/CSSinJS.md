@@ -3,7 +3,7 @@ title: "The Emergence and Impact of CSS-in-JS in Modern Web Development"
 date: 2023-12-16
 author: "Guhaprasaanth"
 image: "css-in-js.png"
-tags: ["ui", "styling"]
+tags: ["ui", "styling", "javascript"]
 slug: css-in-js`
 ---
 
