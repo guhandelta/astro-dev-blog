@@ -1,11 +1,13 @@
 ---
-title: "Island Architecture and Micro Frontends on how they are Shaping the Future of Web Development"
+title: "Island Architecture and Micro Frontends Shaping the Future of Web Development"
 date: 2023-12-16
 author: "Guhaprasaanth"
 image: "islandmfe.jpeg"
 tags: ["ui", "architecture"]
 slug: island-architecture-vs-microfrontends
 ---
+
+# Island Architecture and Micro Frontends on how they are Shaping the Future of Web Development
 
 The landscape of web development is constantly evolving, introducing innovative approaches to building more efficient, scalable, and maintainable web applications. Two such groundbreaking concepts that have recently gained traction are Island Architecture and Micro Frontends. Let's explore these paradigms, comparing their approaches and impacts on the future of web development.
 
