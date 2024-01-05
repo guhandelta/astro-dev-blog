@@ -32,7 +32,12 @@ const currentPageArticles: CollectionEntry<'blog'>[] = allBlogArticles.slice(
 			))}
         </div>
 
-            <Pagination currentPage={currentPage} totalPages={totalPages} />
+            <Pagination 
+                currentPage={currentPage} 
+                totalPages={totalPages} 
+                disablePrev={currentPage === 1}
+                disableNext={currentPage === totalPages}
+            />
 
         </section>
 </MainLayout>
